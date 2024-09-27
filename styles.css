@@ -19,7 +19,7 @@ body {
 
 /* Home Section */
 .home-section {
-  background-image: url("/Media/banner.jpg"); /* Add your image */
+  background-image: url("./Media/banner.jpg"); /* Add your image */
   background-size: cover;
   background-position: center;
   height: 100vh;
